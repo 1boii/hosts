@@ -1,5 +1,8 @@
 # pornography (open directories)
+# These cannot be blocked via DNS/pihole or host file
 178.238.228.199
 195.154.172.140
 35.171.144.223
 51.77.66.14
+85.166.158.78
+192.64.86.228
